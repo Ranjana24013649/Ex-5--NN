@@ -69,7 +69,7 @@ Step 7: Plot the Input space and Hidden space of RBF NN for XOR classification.
               plt.legend()
           
               A = []
-              for i, j in zip(from_1, from_2):
+              for i, j in zip(from_1, from_2): 
                   temp = []
                   temp.append(i)
                   temp.append(j)
